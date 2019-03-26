@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical">
+    <EditText
+        android:id="@+id/Text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:hint="ingrese el primer texto"
+        android:inputType="text"
+        android:textSize="30dp"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Text2"
+        android:hint="Ingrese el segundo texto"
+        android:inputType="text"
+        android:textSize="30dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="comprobar informacion"
+        android:textSize="20dp"
+        android:onClick="CalcularInformacion"/>
+    <TextView
+        android:id="@+id/ConsignaA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="Consigna A"/>
+    <TextView
+        android:id="@+id/ConsignaB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="Consigna B"/>
+    <TextView
+        android:id="@+id/ConsignaC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="Consigna C"/>
+</LinearLayout>
