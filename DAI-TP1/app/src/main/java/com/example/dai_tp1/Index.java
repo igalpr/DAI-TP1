@@ -16,13 +16,13 @@ public class Index extends Activity {
     public void Llevaraotrapantalla2(View vista)
     {
         Intent LlamarSegunda;
-        LlamarSegunda=new Intent(this,Actividad1.class);
+        LlamarSegunda=new Intent(this,Actividad2.class);
         startActivity(LlamarSegunda);
     }
     public void Llevaraotrapantalla3(View vista)
     {
         Intent LLamarTercera;
-        LLamarTercera=new Intent(this,Actividad1.class);
+        LLamarTercera=new Intent(this,Actividad3.class);
         startActivity(LLamarTercera);
     }
 

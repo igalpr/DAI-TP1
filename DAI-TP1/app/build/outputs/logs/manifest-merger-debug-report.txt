@@ -1,166 +1,166 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:2:1-24:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3dbaec5c3f393861ad7768678b7c46b5\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\338b6e279a81c3a6cfe84be00247f579\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9ba90243e8d937ee90250d0ba8d1fc53\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\dce5cc53307b9f614b729275b6871dd7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\de7f47fba5e9a271f204fbadee8eb9d6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ec6e523e7d508d8b04e03155cc677def\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c8a39d14da9f89e3db0aba1fe94675a3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9b58e9c64fd0c6a123f289163afb8fee\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\073313138fd24cda8fc549aa55612883\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f663d1f23f171d857daea5ff55cc6286\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\204c34cf601f858d6a0ff7193adde876\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5632c6ee28912c5f4ebb3c23672b9971\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5e428b79722cefbfb27a7492c9092601\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a405146529e24be00e13c2f6eecd145d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a32fbe48235645c4d18e9be3dad507d7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2b36eff38ff77c83f1e2fdcf510ccb1f\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\47633a7a35bf3eaabb99b3ba276539bd\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\98bdf54a456297cce572f19f2c1e2a2a\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fe60bf4b69b7abbd08df2275f5d9248a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\69507c719f7349de942596ff5646f8bd\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\306c30aaefe891555df08c5c2bd46c47\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\130f870514898d3c4e817cb3f24df7f7\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\51e83a62731e323fc726edb6f965eabb\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\514258c4338022b677c36ce3dace6866\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6704ee4688947a15ffabeb29d9e9bdcc\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a512c7edfae70a7ce9a1ec88b694e0ac\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\04d6eac41e888870baaa8a7bc4343727\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7b3517e459ca33d74b0da1be011a4a49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b8bae56430e543ed89f94a4b1f1f8e78\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c7f871c1c8695aea15f1d1787b0758eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\6a1e5c5c0ddc7ede56e33e6ceab62fc9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\594e27cda82c5857bc253b5aa3da5094\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5d2a5738c45d63644bee6c06ce2df50c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\1a1433e9fbcef29706c80f20e9099301\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7268ede80d63796466d4c0cb9fa20cdb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\05e6cb4f3fc19803b280f264d9523827\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5c00a798d5f731258bb6e25aa01c1075\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3509395cd373d598c5606b08431b347a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1655620a21a5b1c57b7f5293025ec4e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0bf1410f26802181c94654cb0081f879\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b1179c85aa013309ccd7e6366abd92dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bda9bbbc7866d37047e736881f8fb7e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9105de3dcfb32af8094a47796953a801\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bcce4c7db5fc66c54388861275b1baa0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\6ec0058245c54eb4b5c27a4dc6c59889\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5094c81957ce7f0d4aee08a3a0cabb8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a3178e4cc1bd61518f7ed540f2438704\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e4e8afcc4c073d3b780334a516e903d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\eb4f26d25379683d5fbdefd9e2a8820b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\dbaf8194e05b3059180f2fd1be0b1b9b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ce369f4ac4dc39bd92819a7bbe2de76d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2336a21c2b7c7f63d3a7a5d3d25bb8b6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5650365c3e2d68eec925d256707f6aaa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b0f3eef334bb7f9373b53cf2d3b64e1c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:3:5-34
-		INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:5:5-22:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\338b6e279a81c3a6cfe84be00247f579\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\338b6e279a81c3a6cfe84be00247f579\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2b36eff38ff77c83f1e2fdcf510ccb1f\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2b36eff38ff77c83f1e2fdcf510ccb1f\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\47633a7a35bf3eaabb99b3ba276539bd\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\47633a7a35bf3eaabb99b3ba276539bd\AndroidManifest.xml:22:5-23:19
+ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b8bae56430e543ed89f94a4b1f1f8e78\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b8bae56430e543ed89f94a4b1f1f8e78\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9105de3dcfb32af8094a47796953a801\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9105de3dcfb32af8094a47796953a801\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bcce4c7db5fc66c54388861275b1baa0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bcce4c7db5fc66c54388861275b1baa0\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2b36eff38ff77c83f1e2fdcf510ccb1f\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9105de3dcfb32af8094a47796953a801\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.dai_tp1.Actividad3
-ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:12:9-57
+ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:12:9-57
 	android:name
-		ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:12:19-45
+		ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:12:19-45
 activity#com.example.dai_tp1.Actividad2
-ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:13:9-48
+ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:13:9-48
 	android:name
-		ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:13:19-45
+		ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:13:19-45
 activity#com.example.dai_tp1.Actividad1
-ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:14:9-48
+ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:14:9-48
 	android:name
-		ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:14:19-45
+		ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:14:19-45
 activity#com.example.dai_tp1.Index
-ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:15:9-21:20
+ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:15:19-40
+		ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:15:19-40
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml:19:27-74
 uses-sdk
-INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3dbaec5c3f393861ad7768678b7c46b5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3dbaec5c3f393861ad7768678b7c46b5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\338b6e279a81c3a6cfe84be00247f579\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\338b6e279a81c3a6cfe84be00247f579\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9ba90243e8d937ee90250d0ba8d1fc53\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9ba90243e8d937ee90250d0ba8d1fc53\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\dce5cc53307b9f614b729275b6871dd7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\dce5cc53307b9f614b729275b6871dd7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\de7f47fba5e9a271f204fbadee8eb9d6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\de7f47fba5e9a271f204fbadee8eb9d6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ec6e523e7d508d8b04e03155cc677def\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ec6e523e7d508d8b04e03155cc677def\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c8a39d14da9f89e3db0aba1fe94675a3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c8a39d14da9f89e3db0aba1fe94675a3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9b58e9c64fd0c6a123f289163afb8fee\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9b58e9c64fd0c6a123f289163afb8fee\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\073313138fd24cda8fc549aa55612883\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\073313138fd24cda8fc549aa55612883\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f663d1f23f171d857daea5ff55cc6286\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f663d1f23f171d857daea5ff55cc6286\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\204c34cf601f858d6a0ff7193adde876\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\204c34cf601f858d6a0ff7193adde876\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5632c6ee28912c5f4ebb3c23672b9971\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5632c6ee28912c5f4ebb3c23672b9971\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5e428b79722cefbfb27a7492c9092601\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5e428b79722cefbfb27a7492c9092601\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a405146529e24be00e13c2f6eecd145d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a405146529e24be00e13c2f6eecd145d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a32fbe48235645c4d18e9be3dad507d7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a32fbe48235645c4d18e9be3dad507d7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2b36eff38ff77c83f1e2fdcf510ccb1f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2b36eff38ff77c83f1e2fdcf510ccb1f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\47633a7a35bf3eaabb99b3ba276539bd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\47633a7a35bf3eaabb99b3ba276539bd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\98bdf54a456297cce572f19f2c1e2a2a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\98bdf54a456297cce572f19f2c1e2a2a\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fe60bf4b69b7abbd08df2275f5d9248a\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fe60bf4b69b7abbd08df2275f5d9248a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\69507c719f7349de942596ff5646f8bd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\69507c719f7349de942596ff5646f8bd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\306c30aaefe891555df08c5c2bd46c47\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\306c30aaefe891555df08c5c2bd46c47\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\130f870514898d3c4e817cb3f24df7f7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\130f870514898d3c4e817cb3f24df7f7\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\51e83a62731e323fc726edb6f965eabb\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\51e83a62731e323fc726edb6f965eabb\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\514258c4338022b677c36ce3dace6866\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\514258c4338022b677c36ce3dace6866\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6704ee4688947a15ffabeb29d9e9bdcc\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6704ee4688947a15ffabeb29d9e9bdcc\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a512c7edfae70a7ce9a1ec88b694e0ac\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a512c7edfae70a7ce9a1ec88b694e0ac\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\04d6eac41e888870baaa8a7bc4343727\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\devandroid\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\04d6eac41e888870baaa8a7bc4343727\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7b3517e459ca33d74b0da1be011a4a49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7b3517e459ca33d74b0da1be011a4a49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b8bae56430e543ed89f94a4b1f1f8e78\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b8bae56430e543ed89f94a4b1f1f8e78\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c7f871c1c8695aea15f1d1787b0758eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c7f871c1c8695aea15f1d1787b0758eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\6a1e5c5c0ddc7ede56e33e6ceab62fc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\6a1e5c5c0ddc7ede56e33e6ceab62fc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\594e27cda82c5857bc253b5aa3da5094\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\594e27cda82c5857bc253b5aa3da5094\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5d2a5738c45d63644bee6c06ce2df50c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5d2a5738c45d63644bee6c06ce2df50c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\1a1433e9fbcef29706c80f20e9099301\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\1a1433e9fbcef29706c80f20e9099301\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7268ede80d63796466d4c0cb9fa20cdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7268ede80d63796466d4c0cb9fa20cdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\05e6cb4f3fc19803b280f264d9523827\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\05e6cb4f3fc19803b280f264d9523827\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5c00a798d5f731258bb6e25aa01c1075\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5c00a798d5f731258bb6e25aa01c1075\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3509395cd373d598c5606b08431b347a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3509395cd373d598c5606b08431b347a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1655620a21a5b1c57b7f5293025ec4e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1655620a21a5b1c57b7f5293025ec4e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0bf1410f26802181c94654cb0081f879\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0bf1410f26802181c94654cb0081f879\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b1179c85aa013309ccd7e6366abd92dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b1179c85aa013309ccd7e6366abd92dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bda9bbbc7866d37047e736881f8fb7e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bda9bbbc7866d37047e736881f8fb7e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9105de3dcfb32af8094a47796953a801\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9105de3dcfb32af8094a47796953a801\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bcce4c7db5fc66c54388861275b1baa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bcce4c7db5fc66c54388861275b1baa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\6ec0058245c54eb4b5c27a4dc6c59889\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\6ec0058245c54eb4b5c27a4dc6c59889\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5094c81957ce7f0d4aee08a3a0cabb8e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5094c81957ce7f0d4aee08a3a0cabb8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a3178e4cc1bd61518f7ed540f2438704\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a3178e4cc1bd61518f7ed540f2438704\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e4e8afcc4c073d3b780334a516e903d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e4e8afcc4c073d3b780334a516e903d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\eb4f26d25379683d5fbdefd9e2a8820b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\eb4f26d25379683d5fbdefd9e2a8820b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\dbaf8194e05b3059180f2fd1be0b1b9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\dbaf8194e05b3059180f2fd1be0b1b9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ce369f4ac4dc39bd92819a7bbe2de76d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ce369f4ac4dc39bd92819a7bbe2de76d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2336a21c2b7c7f63d3a7a5d3d25bb8b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2336a21c2b7c7f63d3a7a5d3d25bb8b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5650365c3e2d68eec925d256707f6aaa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5650365c3e2d68eec925d256707f6aaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b0f3eef334bb7f9373b53cf2d3b64e1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\devandroid.ALMAGRO.000\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b0f3eef334bb7f9373b53cf2d3b64e1c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\devandroid\Desktop\DAI-TP1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\devandroid.ALMAGRO.000\Desktop\DAI-TP1\DAI-TP1\app\src\main\AndroidManifest.xml
