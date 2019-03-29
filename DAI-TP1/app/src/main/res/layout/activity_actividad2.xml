@@ -1,9 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+<LinearLayout android:layout_height="match_parent"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".Actividad2">
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="ingrese una oracion y o texto"
+        android:textSize="30dp"
+        android:inputType="text"
+        android:id="@+id/TextoIngresado"/>
+    <EditText
+        android:id="@+id/LetraElegida"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:maxLength="1"
+        android:textSize="20dp"
 
-</android.support.constraint.ConstraintLayout>
+        android:hint="ingrese la letra que quiera que se busque"/>
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Advertencia de 10 caracteres"
+        android:textSize="30dp"
+        android:id="@+id/checkbox"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Verificar cantidad"
+        android:textSize="30dp"
+        android:enabled="false"
+        android:id="@+id/BotonHacer"
+        android:onClick="CalcularCantidadLetra"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="La cantidad de letras a ingresadas es "
+        android:textSize="30dp"
+        android:id="@+id/CantidadIngresada"/>
+</LinearLayout>
