@@ -17,12 +17,28 @@
         android:hint="Ingrese el segundo texto"
         android:inputType="text"
         android:textSize="30dp"/>
+    <SeekBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="10"
+        android:min="1"
+        android:id="@+id/SeekBar"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/TextoBarra"
+        android:textSize="15dp"
+        android:textAlignment="center"
+        android:textColor="#000000"/>
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="comprobar informacion"
         android:textSize="20dp"
-        android:onClick="CalcularInformacion"/>
+        android:onClick="CalcularInformacion"
+        android:id="@+id/ComprobarConsignas"
+        android:enabled="false"/>
     <TextView
         android:id="@+id/ConsignaA"
         android:layout_width="match_parent"

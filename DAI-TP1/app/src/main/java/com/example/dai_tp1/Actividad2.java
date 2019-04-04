@@ -67,8 +67,16 @@ public class Actividad2 extends Activity {
             char LatraElegida=Letra.getText().charAt(0);
             for (i=0;i<sTexto.length();i++)
             {
-                sTexto=sTexto.toLowerCase();
 
+               if(LatraElegida<90&&LatraElegida>64)
+
+               {
+                   sTexto=sTexto.toUpperCase();
+               }
+               else
+               {
+                   sTexto=sTexto.toLowerCase();
+               }
                 if(sTexto.charAt(i)== LatraElegida)
                 {
                     contador++;
